@@ -1,0 +1,27 @@
+Prompt Type,Output #,Generated Text,BERTScore F1
+Direct,1,"3. Take a mental step toward self-help
+""I want you to be a human being. Do you think you can do that, if you have to spend time with your friends and family",0.8380134105682373
+Direct,2,Take a step away from the big scary words and make the point that the fear is real. It is easy to forget about the scary things that you have to deal with in order to feel good at something.,0.8455097675323486
+Direct,3,You can use this tool to ask your partner questions about the things you'd like to discuss in your life. Ask them about specific topics that you have been thinking about or trying out the next time. Try to,0.8372575044631958
+Scenario-based,1,It is difficult to believe that those who test positive are so lucky. There is no such thing as a normal kid who scores below 60 or 80%.,0.8379194736480713
+Scenario-based,2,"How to Do It
+. Go in, write. You can't let a failure get in the way of getting a smile. The most important thing to",0.8399410247802734
+Scenario-based,3,"Helping someone make a decision to quit a job. Make sure you feel well. Try to make your body the best you can, not the weakest you may ever",0.8351499438285828
+Persona-based,1,"A word that goes without saying. How the heart is broken by your lack of inner self-control. (A:1)
+, I feel like my heart broke in two",0.839515209197998
+Persona-based,2,"You can write about the inner power, or you can just do it with something like this.
+
+You can feel the desire for things you really want, and you will feel this intense",0.8450878858566284
+Persona-based,3,"That's where you put your wisdom, your heart, and your soul.
+
+It's always better to have my body in the right place than my soul to be in a body that",0.845148503780365
+Keyword-based,1,"The good news is that we are all getting ready for this world. If we want to change, we have to look in different directions. This",0.8539332151412964
+Keyword-based,2,"If it sounds like something you'd like to give, call your representative and get in touch about it. And if not, contact them directly.",0.8389622569084167
+Keyword-based,3,"You will discover that this is the best way of connecting and expressing the feelings and thoughts you already share.
+
+Your mind, your mind.",0.8484928607940674
+Conversational,1,"""Let's be careful, we'll be doing what we do best—and what will go in.""
+
+Kris: Hey, I'm",0.8160650730133057
+Conversational,2,"(from http://www.twitch.tv/r/Bungie) ""I thought we were a little far ahead of everybody (it had",0.8096738457679749
+Conversational,3,"""If you think that you can win an X match in one round, your best bet is to keep it short and narrow as it happens. You",0.843441367149353
